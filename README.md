@@ -14,7 +14,7 @@
 
 | **Desempenho Comercial** | **Principais Influenciadores** | **Tooltip Personalizada** |
 |---------------------------|--------------------------------|----------------------------|
-| ![Dashboard Desempenho Comercial](images/desempenho_comercial.png) | ![Dashboard Principais Influenciadores](images/principais_influenciadores.png) | ![Tooltip Personalizada](images/tooltip.png) |
+|<img src="https://github.com/Cesar-AlmeidaLima/PBIDist/blob/main/Imagens/Captura de tela 2025-10-25 120912.png?raw=true"/> | <img src="https://github.com/Cesar-AlmeidaLima/PBIDist/blob/main/Imagens/Captura de tela 2025-10-25 121053.png?raw=true"/> | <img src="https://github.com/Cesar-AlmeidaLima/PBIDist/blob/main/Imagens/Captura de tela 2025-10-25 131805.png?raw=true"/>|
 
 > 💡 As imagens acima ilustram as páginas interativas criadas no Power BI Desktop.
 
@@ -86,7 +86,6 @@ SWITCH(
 
 ### 🎨 Cores Condicionais (Hexadecimal)
 ```DAX
-Copiar código
 Cor Margem = 
 SWITCH(
     TRUE(),
